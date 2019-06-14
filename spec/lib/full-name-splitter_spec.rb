@@ -23,6 +23,8 @@ describe Incognito do
     #
     # Examples
     #
+    # Example for later support
+    #"Jaazaniah ben Shaphan"         => ["Jaazaniah",      "ben Shaphan"         ],
 
     {
       "John Smith"                    => ["John",           "Smith"               ],
@@ -31,7 +33,6 @@ describe Incognito do
       "Gabriel Van Helsing"           => ["Gabriel",        "Van Helsing"         ],
       "Pierre de Montesquiou"         => ["Pierre",         "de Montesquiou"      ],
       "Charles d'Artagnan"            => ["Charles",        "d'Artagnan"          ],
-      "Jaazaniah ben Shaphan"         => ["Jaazaniah",      "ben Shaphan"         ],
       "Noda' bi-Yehudah"              => ["Noda'",          "bi-Yehudah"          ],
       "Maria del Carmen Menendez"     => ["Maria",          "del Carmen Menendez" ],
       "Alessandro Del Piero"          => ["Alessandro",     "Del Piero"           ],
